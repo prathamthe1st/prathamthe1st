@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hello there, I am Pratham Goenka
+
+- 🌱 I’m currently learning Django REST Framework
+- 👯 I’m looking to collaborate on ML\AI projects
+- 🤔 I’m looking for help with ML
+
+## Technologies I've worked with
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,bootstrap,js,django,postman,postgres,mysql,mongodb,figma,vscode,git,bash,vercel,github" />
+  </a>
+</p>
