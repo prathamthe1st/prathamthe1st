@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **prathamthe1st/prathamthe1st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,3 +26,11 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,bootstrap,js,django,postman,postgres,mysql,mongodb,figma,vscode,git,bash,vercel,github" />
   </a>
 </p>
+
+## My statistics
+
+<div align="center" style="display:flex;flex-direction:row">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prathamthe1st&theme=react)](https://git.io/streak-stats)
+
+</div>
