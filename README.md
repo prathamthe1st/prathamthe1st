@@ -34,3 +34,6 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prathamthe1st&theme=react)](https://git.io/streak-stats)
 
 </div>
+
+
+[![An image of @prathamthe1st's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prathamthe1st)](https://holopin.io/@prathamthe1st)
