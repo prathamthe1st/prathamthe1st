@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,bootstrap,js,django,postman,postgres,mysql,mongodb,figma,vscode,git,bash,vercel,github" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,bootstrap,js,react,django,postman,postgres,mysql,mongodb,figma,vscode,git,bash,vercel,netlify,aws,gcp,linux,github" />
   </a>
 </p>
 
